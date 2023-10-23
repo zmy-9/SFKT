@@ -2,7 +2,7 @@
 CIKM'2023: No Length Left Behind: Enhancing Knowledge Tracing for Modeling Sequences of Excessive or Insufficient Lengths.
 (Tensorflow implementation for SFKT)
 
-This is the code for the paper: [No Length Left Behind: Enhancing Knowledge Tracing for Modeling Sequences of Excessive or Insufficient Lengths](https://arxiv.org/pdf/2308.03488.pdf)  
+This is the code for the paper: [No Length Left Behind: Enhancing Knowledge Tracing for Modeling Sequences of Excessive or Insufficient Lengths](https://dl.acm.org/doi/10.1145/3583780.3614988)  
 
 If you find this code is useful for your research, please cite as:
 ```
